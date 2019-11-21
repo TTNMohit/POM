@@ -1,0 +1,8 @@
+com\shiksha\main\ShikshaMain.class
+com\shiksha\database\DatabaseConnect.class
+com\shiksha\pages\Login.class
+com\shiksha\test\TestShortlist.class
+com\shiksha\main\Reports.class
+com\shiksha\test\TestLogin.class
+com\shiksha\pages\Shortlist.class
+com\shiksha\main\Variables.class
